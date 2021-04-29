@@ -1,0 +1,53 @@
+.scrollSpells {
+  width: 100%;
+  min-width: 100vh;
+  display: flex;
+}
+
+.blockSpell {
+  margin: 20px;
+  width: 130px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pictureSpell {
+  width:80%;
+  height:80%;
+}
+
+.pictureSpell img{
+  width: 100%;
+  height: 100%;
+}
+
+.nameSpell {
+  font-size: 14pt;
+}
+
+.imgBox {
+  width: 100%;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.12);
+  border: 2px solid rgba(0, 0, 0, 0.24);
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: palegoldenrod;
+  flex-direction: column;
+}

@@ -6,6 +6,7 @@ function App() {
   return (
     <div className='magicSymphony'>
       <SpellMix/>
+      <div className="firstSoloChange"></div>
     </div>
   );
 }

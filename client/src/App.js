@@ -7,6 +7,7 @@ function App() {
     <div className='magicSymphony'>
       <SpellMix/>
       <div className="firstSoloChange"></div>
+      <div className="newBranch"></div>
     </div>
   );
 }

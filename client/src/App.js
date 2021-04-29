@@ -8,6 +8,7 @@ function App() {
       <SpellMix/>
       <div className="firstSoloChange"></div>
       <div className="newBranch"></div>
+      <div className="secondBranch"></div>
     </div>
   );
 }
